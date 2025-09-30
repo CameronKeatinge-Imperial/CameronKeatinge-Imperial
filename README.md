@@ -1,4 +1,4 @@
-## Hi, Cameron here!
+## Hi, Cameron here! :star:
 
 I am a Master's student at Imperial studying Statistics (2025/26).
 
@@ -10,4 +10,4 @@ I also enjoy sports, including:
 - Rugby
 - Football
 
-My LinkedIn is [linkedin.com/in/cameron-keatinge-178b65316](here).
+My LinkedIn is [here](linkedin.com/in/cameron-keatinge-178b65316).
