@@ -1,6 +1,6 @@
 ## Hi, Cameron here! :star:
 
-I am a Master's student at **Imperial** studying Statistics (2025/26).
+I am a Master's student at Imperial studying Statistics (2025/26).
 
 I studied my undergraduate at the University of St Andrews in Scotland. I look forward to collaborating, please feel free to say hi! My email is cjk25@ic.ac.uk.
 
@@ -13,4 +13,4 @@ I also enjoy sports, including:
 My LinkedIn is [here](linkedin.com/in/cameron-keatinge-178b65316).
 
 ---
-Last updated: 30/09/2052
+Last updated: 30/09/2025
