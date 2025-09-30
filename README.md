@@ -1,4 +1,4 @@
-## Hi all, Cameron here!
+## Hi, Cameron here!
 
 I am a Master's student at Imperial studying Statistics (2025/26).
 
